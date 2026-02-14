@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
-import { SideMenuHeader } from '../side-menu-header/side-menu-header';
-import { SideMenuOptions } from '../side-menu-options/side-menu-options';
+import { SideMenuHeader } from './side-menu-header/side-menu-header';
+import { SideMenuOptions } from './side-menu-options/side-menu-options';
 
 @Component({
   selector: 'side-menu',
